@@ -1,0 +1,23 @@
+.toast{
+    animation: borderani 5s;
+}
+@keyframes borderani {
+    0%{
+        border-width: 0%;
+    }
+    20%{
+        border-width: 20%;
+    }
+    40%{
+        border-width: 40%;
+    }
+    60%{
+        border-width: 60%;
+    }
+    80%{
+        border-width: 80%;
+    }
+    100%{
+        border-width: 100%;
+    }
+}
