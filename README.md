@@ -9,7 +9,6 @@ Welcome to the **E-Commerce Store Platform**, a robust and user-friendly solutio
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Live Demo](#live-demo)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -41,9 +40,6 @@ The **E-Commerce Store Platform** is designed to help entrepreneurs create their
 - **Tailwind CSS**: For styling and responsive design.
 - **Daisy UI**: UI components that extend Tailwind CSS with beautiful designs.
 
-## Live Demo
-
-Check out the live demo of the project [here](https://your-live-demo-link.com).
 
 ## Getting Started
 
