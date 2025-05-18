@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Button } from "@/components/ui/button";
+import Button from "@/components/Button/Button";
 import getSession from "@/utils/getSession";
 
 const OrderById = async () => {
