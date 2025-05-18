@@ -1,4 +1,7 @@
 "use client"
+import { useState } from "react";
+import { IoMdClose } from "react-icons/io";
+
 const AlertComp = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [perm, setPerm] = useState({perm: 'cancel'})
